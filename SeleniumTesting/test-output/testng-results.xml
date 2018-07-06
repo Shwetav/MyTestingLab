@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14458" started-at="2018-07-06T04:34:27Z" finished-at="2018-07-06T04:34:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14458" started-at="2018-07-06T04:34:27Z" finished-at="2018-07-06T04:34:42Z">
+      <class name="com.examples.seleniumTesting.BasicAuthentication">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.examples.seleniumTesting.BasicAuthentication@27efef64]" name="setUp" is-config="true" duration-ms="8978" started-at="2018-07-06T04:34:27Z" finished-at="2018-07-06T04:34:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="performAuthentication()[pri:0, instance:com.examples.seleniumTesting.BasicAuthentication@27efef64]" name="performAuthentication" duration-ms="4144" started-at="2018-07-06T04:34:36Z" finished-at="2018-07-06T04:34:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performAuthentication -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.examples.seleniumTesting.BasicAuthentication@27efef64]" name="tearDown" is-config="true" duration-ms="1307" started-at="2018-07-06T04:34:41Z" finished-at="2018-07-06T04:34:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.examples.seleniumTesting.BasicAuthentication -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
